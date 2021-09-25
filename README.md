@@ -8,6 +8,9 @@ This repository is for showing how Git and GitHub work
 
 ##Decployment
 
+##HOW TO CONTINUE
+please fork this repository and pull request for review.
+
 ###COPYRIGHT
 VICENTUAN.2020
 
