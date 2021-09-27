@@ -14,6 +14,6 @@ please fork this repository and pull request for review.
 
 ###COPYRIGHT
 VICENTUAN.2020
-
+ALL RIGHTS RESERVED
 Sample website with plenty of files for demos
 ##How To Contribute
